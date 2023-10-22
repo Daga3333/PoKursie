@@ -1,2 +1,1 @@
-# PoKursie
-po kursie
+# ADPyR9-materialy
